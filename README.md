@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+TextUtils is a React application for text analysis, offering functionalities like removing all lowercase letters, removing all uppercase letters, and clearing all lines of text.
+
 ## Available Scripts
 
 In the project directory, you can run:
